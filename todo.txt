@@ -1,0 +1,6 @@
+1. Python webscraper with capability to search for sections and return days of the week and times, possibly professors
+2. Method to turn the return from the python script into date and time objects
+3. Choose datastructure to hold each date object (possibly in a priority queue
+4. Alrgorithm to populate multiple schedule objects with date objects for non-overlapping times in order to give every possible schedule. 
+5. What should user input? Class IDs? Sections? Professors? Times of clubs/sports when they can't take a particular class? 
+
